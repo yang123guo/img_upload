@@ -1,6 +1,4 @@
-/**
- * Created by l on 16/11/1.
- * 暂只支持自动上传，通过监听input[type=file]的onchange实现，手动上传功能后续添加
+/** 
  * 只支持上传单图片
  */
 (function(w, d){
